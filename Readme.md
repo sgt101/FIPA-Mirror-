@@ -4,4 +4,8 @@ FIPA specs are a collection of standards that describe a full featured infrastru
 
 I will try and provide some pointers and information on them in the coming weeks but I have downladed them and mirrored them here because the source repository seems to be periodically unavailble. 
 
+The /pdfs folder is where you can find the specifications. I have changed their names so that it's easier to browse. 
+
+FWITW I have put a paper that I wrote 20 years ago that summarizes the data that I gathered from the Agentcities.net project that provided support for demonstration FIPA implementations in the EU. No one else was keen to work on this paper and it got rejected from AAMAS so please treat it as an opinion peice. 
+
 
